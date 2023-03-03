@@ -7,7 +7,7 @@ I'm a CS major at Georgia Tech, proficient in Python, Java, HTML/CSS/JS with a b
 
 - 🌱 I enjoy learning and love improving myself in every facet of my life.
 - 👯 I’m looking to collaborate on any interesting projects and improve my skills. Please reach out if you need help with anything!
--	:computer: Currently looking for intern positions in my fields of experience or new ones! 
+-	:computer: Currently looking for intern positions. 
 - 📫 How to reach me: anirudh.vetukuri@gmail.com
 
 

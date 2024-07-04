@@ -31,5 +31,5 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-004c80?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004c80?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-vetukuri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004c80?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anir-vetukuri/)
 [![Gmail](https://img.shields.io/badge/Gmail-004c80?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudh.vetukuri@gmail.com)
